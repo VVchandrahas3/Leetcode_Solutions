@@ -36,4 +36,12 @@
 |  |
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+## String
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/1078-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
