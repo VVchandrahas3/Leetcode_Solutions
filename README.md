@@ -8,6 +8,7 @@
 | [0217-contains-duplicate](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [1848-sum-of-unique-elements](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/1848-sum-of-unique-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 | [0217-contains-duplicate](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [1848-sum-of-unique-elements](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/1848-sum-of-unique-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -48,4 +50,8 @@
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/1078-remove-outermost-parentheses) |
+## Counting
+|  |
+| ------- |
+| [1848-sum-of-unique-elements](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/1848-sum-of-unique-elements) |
 <!---LeetCode Topics End-->
