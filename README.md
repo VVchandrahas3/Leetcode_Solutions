@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0009-palindrome-number) |
+| [1013-fibonacci-number](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 ## Hash Table
 |  |
@@ -59,4 +60,16 @@
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/1603-running-sum-of-1d-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
