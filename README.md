@@ -6,6 +6,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -20,6 +21,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 ## Hash Table
@@ -37,6 +39,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Binary Search
 |  |
