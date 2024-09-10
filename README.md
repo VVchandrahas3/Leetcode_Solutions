@@ -9,6 +9,7 @@
 | [0189-rotate-array](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0792-binary-search](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0792-binary-search) |
 | [1603-running-sum-of-1d-array](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/1603-running-sum-of-1d-array) |
@@ -40,6 +41,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Binary Search
 |  |
