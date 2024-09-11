@@ -6,6 +6,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -28,6 +29,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -51,6 +53,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 ## String
@@ -64,6 +67,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [1848-sum-of-unique-elements](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/1848-sum-of-unique-elements) |
 ## Prefix Sum
 |  |
@@ -81,4 +85,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
