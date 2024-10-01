@@ -73,6 +73,7 @@
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0038-count-and-say) |
 | [1078-remove-outermost-parentheses](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/1078-remove-outermost-parentheses) |
 ## Stack
 |  |
