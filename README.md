@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0136-single-number) |
@@ -37,6 +38,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
