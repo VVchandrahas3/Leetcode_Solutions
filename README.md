@@ -21,6 +21,7 @@
 | [0792-binary-search](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0792-binary-search) |
 | [1603-running-sum-of-1d-array](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1848-sum-of-unique-elements](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/1848-sum-of-unique-elements) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Bit Manipulation
 |  |
@@ -60,6 +61,7 @@
 | [0189-rotate-array](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
@@ -111,4 +113,8 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
