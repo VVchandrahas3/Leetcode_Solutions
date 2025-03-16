@@ -84,10 +84,12 @@
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0038-count-and-say) |
+| [0402-remove-k-digits](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0402-remove-k-digits) |
 | [1078-remove-outermost-parentheses](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/1078-remove-outermost-parentheses) |
 ## Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0402-remove-k-digits) |
 | [1078-remove-outermost-parentheses](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/1078-remove-outermost-parentheses) |
 ## Counting
 |  |
@@ -135,4 +137,12 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0402-remove-k-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
