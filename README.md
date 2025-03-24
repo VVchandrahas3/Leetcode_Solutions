@@ -17,6 +17,7 @@
 | [0219-contains-duplicate-ii](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0283-move-zeroes) |
+| [0313-super-ugly-number](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0313-super-ugly-number) |
 | [0485-max-consecutive-ones](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0792-binary-search](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0792-binary-search) |
@@ -36,6 +37,7 @@
 | [0009-palindrome-number](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [0313-super-ugly-number](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0313-super-ugly-number) |
 | [1013-fibonacci-number](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -105,6 +107,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0313-super-ugly-number](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0313-super-ugly-number) |
 | [1013-fibonacci-number](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
