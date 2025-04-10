@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0136-single-number) |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
@@ -148,4 +150,8 @@
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0402-remove-k-digits) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
