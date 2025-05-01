@@ -25,6 +25,7 @@
 | [0313-super-ugly-number](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0313-super-ugly-number) |
 | [0485-max-consecutive-ones](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0792-binary-search) |
 | [1603-running-sum-of-1d-array](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1848-sum-of-unique-elements](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/1848-sum-of-unique-elements) |
@@ -83,6 +84,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0792-binary-search) |
 ## Sorting
 |  |
