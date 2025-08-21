@@ -48,6 +48,7 @@
 | [0313-super-ugly-number](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0313-super-ugly-number) |
 | [1013-fibonacci-number](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
 |  |
