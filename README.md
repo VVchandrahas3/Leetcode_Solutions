@@ -30,6 +30,7 @@
 | [0792-binary-search](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0792-binary-search) |
 | [1603-running-sum-of-1d-array](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1848-sum-of-unique-elements](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/1848-sum-of-unique-elements) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Bit Manipulation
@@ -48,6 +49,7 @@
 | [0313-super-ugly-number](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0313-super-ugly-number) |
 | [1013-fibonacci-number](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
@@ -170,4 +172,8 @@
 | ------- |
 | [0048-rotate-image](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
+## Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
