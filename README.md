@@ -44,6 +44,7 @@
 | [0007-reverse-integer](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0313-super-ugly-number](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0313-super-ugly-number) |
@@ -86,6 +87,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0268-missing-number) |
