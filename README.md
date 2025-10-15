@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -46,6 +47,7 @@
 | [0048-rotate-image](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0313-super-ugly-number](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0313-super-ugly-number) |
 | [1013-fibonacci-number](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
@@ -133,6 +135,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
