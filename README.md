@@ -61,6 +61,7 @@
 | [0001-two-sum](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -79,6 +80,7 @@
 | [0031-next-permutation](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0344-reverse-string) |
@@ -156,6 +158,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/VVchandrahas3/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
